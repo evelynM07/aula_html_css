@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0545b4;
+}
+
+.nav1 {
+    font-weight: 500;
+    background-color: #4070c4;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: right;
+    padding-right: 100px;
+    font-size: 13px;
+
+}
+
+.sp1 {
+    padding-right: 10px;
+}
+
+.sp2 {
+    padding-right: 10px;
+}
+
+.sp3 {
+    padding-right: 10px;
+}
+
+.sp4 {
+    padding-right: 10px;
+}
+
+.img3 {
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+
+.img4 {
+    width: 250px;
+}
+
+.a1 {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.a2 {
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+.a3 {
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+.a4 {
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+.topo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-right: 50px;
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-right: 50px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.BD {
+    margin-left: 90;
+    margin-right: 90;
+    border: 10px;
+}
+
+.N {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T1 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG1 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 100px;
+}
+
+.A1 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.A2 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T2 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG2 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 1100px;
+}
+
+.A3 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.T3 {
+    text-align: center;
+    color: white;
+    background-color: #0545b4;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.IMG3 {
+    margin-left: 600;
+    width: 1100px;
+    border-radius: 100px;
+}
+
+.A4 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.A5 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+    ;
+}
+
+.A6 {
+    margin-left: 30;
+    font-size: 35;
+    font-family: Arial, Helvetica, sans-serif;
+}
